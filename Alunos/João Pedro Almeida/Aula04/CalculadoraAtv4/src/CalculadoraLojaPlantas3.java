@@ -144,7 +144,7 @@ public class CalculadoraLojaPlantas3 {
                     break;
 
                 default:
-                    System.out.println("Opção inválida! Tente novamente.");
+                    System.out.println("Opção inválida! Tente novamente");
                     break;
             }
 
